@@ -1,5 +1,5 @@
 # **TCSoS-FRACS**: Tropical Cyclone Storm Surge-Based Flood Risk Assessment under Combined Scenarios of High Tides and Sea Level Rises
-[![DOI](https://zenodo.org/badge/831000623.svg)](https://zenodo.org/doi/10.5281/zenodo.12784422)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12784519.svg)](https://doi.org/10.5281/zenodo.12784519)
 ## Overview
 
 This repository contains the source code and processed data used in the study titled "Tropical Cyclone Storm Surge-Based Flood Risk Assessment under Combined Scenarios of High Tides and Sea Level Rises". The study develops and applies the TCSoS-FRACS model to assess the TC storm surge flood risk under various combined scenarios.
